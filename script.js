@@ -3,7 +3,8 @@ const produtos = [
     { nome: "Teclado Mecânico", preco: 250, categoria: "Periféricos" },
     { nome: "Mouse Gamer", preco: 1000, categoria: "Periféricos" },
     { nome: "Notebook I5", preco: 9000, categoria: "Eletrônicos" },
-    { nome: "Notebook I9", preco: 13500, categoria: "Eletrônicos" }
+    { nome: "Notebook I9", preco: 13500, categoria: "Eletrônicos" },
+    { nome: "Webcam Full HD", preco: 350.00, categoria: "Eletrônicos"}
 ];
 
 // ELEMENTOS
